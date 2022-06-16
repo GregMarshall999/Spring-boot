@@ -1,0 +1,47 @@
+.body{
+    background-color: wheat;
+}
+
+H1{
+    margin: auto;
+}
+
+.author{
+    font-size: 20px;
+    color: white;
+    padding: 5px 0 0 5px;
+
+}
+
+.timeStamp{
+    padding-left: 5px;
+    font-size: 12px;
+    color: white;
+}
+
+.wrapper{
+    width: 50vw;
+    margin: auto;
+}
+
+.msgBox{
+    background-color: rgb(79, 11, 238);
+    width: 100%;
+}
+
+.formBox{
+    display: inline-block;
+    height: 100px;
+    background-color: rgb(233, 230, 224);
+}
+
+.formBox form{
+    width: 60%;
+    margin: 40px auto;
+}
+
+.message{
+    padding: 5px 5px;
+    border: black 1px solid;
+    background-color: white;
+}
